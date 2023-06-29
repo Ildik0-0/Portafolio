@@ -4,8 +4,8 @@ html{
 
 body {
   margin: 0;
-  font-family: 300 11px/1.4 'Helvetica Neue', 'san-serif';
-  color: black; 
+  font: 300 11px/1.4 'Helvetica Neue', 'san-serif';
+  color: rgb(82, 111, 110); 
    background: #022c43;
    overflow: hidden;
    display: block;
